@@ -19,7 +19,7 @@
     {
       "VersionFrom": "1.00.00",
       "VersionTo": "1.00.01",
-      "Url": "http://somewhere.com/update-patch-1.00.00-1.00.01.zip"
+      "Url": "https://github.com/tlbb25/tlbb25/raw/main/1.0.zip"
     }
   ]
 }
